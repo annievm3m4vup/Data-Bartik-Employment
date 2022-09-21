@@ -3,7 +3,9 @@
 - Data source: QCEW
 
 - Geographic level: county
-
+  - file name end with: _mc (main county) 
+  - file name end with: _nmc (surrounding county) 
+  
 - Bartik instrument: local initial employment shares time with national industrial employment growth 
   - Goldsmith-Pinkham (2020)
 - Decomposition: 
