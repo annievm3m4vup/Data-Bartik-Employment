@@ -5,7 +5,7 @@
 - Geographic level: county
 
 - Bartik instrument: local initial employment shares time with national industrial employment growth 
-
+  - Goldsmith-Pinkham (2020)
 - Decomposition: 
   - Version 1: aggregate all industries; 
   - Version 2: decompose industries into two categories; 
