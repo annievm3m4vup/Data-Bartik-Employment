@@ -13,3 +13,5 @@
   - Version 1: aggregate all industries; 
   - Version 2: decompose industries into two categories; 
   - Version 3: use each industry as a separate instrument
+
+- The data is constructed for Top 60 MSAs and I base on the delineation file which publlished in 1990. 
